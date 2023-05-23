@@ -1,1 +1,2 @@
-# trex-tarea-47
+# p5.play-plantilla
+Plantilla para p5.play
